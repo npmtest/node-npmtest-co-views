@@ -1,0 +1,15 @@
+<svg height="190" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="190" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">1 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ co-views@2.1.0 </tspan>
+<tspan x="10" y="90">  ├─┬ co-render@1.1.0 </tspan>
+<tspan x="10" y="106">  │ └─┬ consolidate@0.14.5 </tspan>
+<tspan x="10" y="122">  │   └── bluebird@3.5.0 </tspan>
+<tspan x="10" y="138">  ├─┬ debug@2.6.3 </tspan>
+<tspan x="10" y="154">  │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="170">  └── object-assign@4.1.1</tspan>
+</text>
+</svg>
