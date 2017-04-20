@@ -1,4 +1,7 @@
-# test coverage for  [co-views (v2.1.0)](https://github.com/tj/co-views#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-co-views.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-co-views) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-co-views.svg)](https://travis-ci.org/npmtest/node-npmtest-co-views)
+# npmtest-co-views
+
+#### basic test coverage for  [co-views (v2.1.0)](https://github.com/tj/co-views#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-co-views.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-co-views) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-co-views.svg)](https://travis-ci.org/npmtest/node-npmtest-co-views)
+
 #### Higher level promise-based template rendering for Co and others, built on co-render
 
 [![NPM](https://nodei.co/npm/co-views.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/co-views)
